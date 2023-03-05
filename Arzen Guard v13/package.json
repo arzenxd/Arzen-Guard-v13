@@ -1,0 +1,28 @@
+{
+  "//1": "Arzen Guard Bot",
+  "name": "ArzenDen Weatrixcime",
+  "version": "0.0.1",
+  "description": "Arzen Guard Bot",
+  "main": "arzen.js",
+  "scripts": {
+    "start": "node arzen.js"
+  },
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "parse-ms": "^3.0.0",
+    "winston": "^3.3.3"
+  },
+  "engines": {
+    "node": "13.x"
+  },
+
+  {,
+  "license": "MIT",
+  "keywords": [   
+  ]
+}
